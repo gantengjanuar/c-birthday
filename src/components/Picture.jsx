@@ -1,14 +1,15 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
-import { picture} from '../assets';
+import { picture,cacan1,cacan2,cacan3,cacan4 } from '../assets';
 import { Link } from 'react-router-dom'; 
 import SectionWrapper from './SectionWrapper';
 // Add your own images by putting them in the assets folder and import them.
 const images = [
  picture,
- picture,
- picture,
- picture,
+ cacan1,
+ cacan2,
+ cacan3,
+ cacan4,
 
 ];
 function Picture() {
@@ -22,7 +23,7 @@ function Picture() {
     <SectionWrapper>
       <Link to="/card">
         <p className="absolute text-4xl font-bold text-customBlue inset-0 flex justify-center items-center text-center transform rotate-6 cursor-pointer">
-          You're Getting Old! :P
+          woOoww udah 17
         </p>
       </Link>
       {!allImagesLoaded && (
