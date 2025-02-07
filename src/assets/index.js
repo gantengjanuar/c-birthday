@@ -21,5 +21,6 @@ export {
     cacan2,
     cacan3,
     cacan4,
+    cacan5,
     CakeSVG,
 }

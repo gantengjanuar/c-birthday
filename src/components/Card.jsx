@@ -42,7 +42,7 @@ function Card() {
             you're working so hard, and I know you’ll make it!
             </p>
             <p>
-             also, semoga di tahun ini kita lebih sering main dan ga so sibuk y
+             oh ya, semoga di tahun ini kita lebih sering main dan ga so sibuk y💩
             </p>
             <p>
               i may not tell you often enough. but i'm proud of you and always will be. Sweet Seventeen!! 

@@ -9,6 +9,7 @@ const images = [
  cacan1,
  cacan2,
  cacan3,
+ cacan5,
  cacan4,
 
 ];
