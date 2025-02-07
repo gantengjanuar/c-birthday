@@ -37,12 +37,12 @@ function Card() {
         <div id="card-inside">
           <div className="wrap">
             <p>Happy Birthday, can! 🎉🎂 </p>
-            <p>I wish you nothing but the best! May all your dreams come true, especially your goal of getting into university.</p>
+            <p>I really hope things go well for you! I'm sure your dreams will come true, especially that university place you're aiming for.</p>
             <p>
             you're working so hard, and I know you’ll make it!
             </p>
             <p>
-             semoga di tahun ini kita lebih sering main ya :b
+             also, semoga di tahun ini kita lebih sering main dan ga so sibuk y
             </p>
             <p>
               i may not tell you often enough. but i'm proud of you and always will be. Sweet Seventeen!! 
