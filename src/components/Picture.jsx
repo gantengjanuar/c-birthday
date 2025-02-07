@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
-import { picture,cacan1,cacan2,cacan3,cacan4 } from '../assets';
+import { picture,cacan1,cacan2,cacan3,cacan4,cacan5 } from '../assets';
 import { Link } from 'react-router-dom'; 
 import SectionWrapper from './SectionWrapper';
 // Add your own images by putting them in the assets folder and import them.

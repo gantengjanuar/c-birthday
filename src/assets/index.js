@@ -6,6 +6,7 @@ import cacan1 from './cacan1.png'
 import cacan2 from './cacan2.png'
 import cacan3 from './cacan3.png'
 import cacan4 from './cacan4.png'
+import cacan5 from './cacan5.png'
 
 import confetti from './confetti.gif'
 
